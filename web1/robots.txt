@@ -1,0 +1,78 @@
+User-agent: *
+Allow: /api/utilities/v1/imageproxy
+Disallow: /maestro/api/
+Disallow: /api/
+Disallow: /maestro/
+Disallow: /ui/
+Disallow: /signature/voucher/
+Disallow: /account/email_verify/
+Disallow: /acclaimbadge/
+Disallow: /voucher/
+Disallow: /search
+Disallow: /lecture/
+Disallow: /learn-perf/
+Disallow: /specializations-perf/
+Disallow: /professional-certificates-perf/
+Disallow: /learn-noperf/
+Disallow: /specializations-noperf/
+Disallow: /professional-certificates-noperf/
+Disallow: /account/
+Disallow: /business/xmlrpc.php
+Disallow: /business/wp-content/uploads/ 
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OTP is 4572
