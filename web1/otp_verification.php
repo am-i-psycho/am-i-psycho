@@ -10,7 +10,7 @@ if(isset($_POST['verify'])) {
     $user_otp = $_POST['otp'];
 
     if ($user_otp == $_SESSION['otp']) {
-        echo "DRUPATH{h3y_s37_hehre}";
+        echo "Zpaze_CTF{Y0u_h4v3_g0t_y0uR_Fl4g_g0_and_submit}";
         
         session_unset();
         session_destroy();
