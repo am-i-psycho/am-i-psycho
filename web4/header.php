@@ -20,8 +20,8 @@ function displayPara(fieldID, displayBol) {
 
 </script>
 
-<title>LFI labs</title>
-    <center><h1>LFI labs</h1>
+<title>Zpaze</title>
+    <center><h1>Find it</h1>
     </center>
 </head>
 
