@@ -27,7 +27,7 @@
           $password = base64_encode($_POST['pass']);
 
           $encodedUsername = "YWRtaW5AenBhemUudGVjaA==";
-          $encodedPassword = "Y1NmMyRZSFZAakZiOGJ2ag==";
+          $encodedPassword = "VnpGdVRqTnlRRFl5";
 
           if ($email == $encodedUsername && $password == $encodedPassword) {
             $otp = 4572;
